@@ -1,0 +1,13 @@
+{
+  "name": "tg-approve-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.11",
+    "node-telegram-bot-api": "^0.65.1"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.6"
+  }
+}
